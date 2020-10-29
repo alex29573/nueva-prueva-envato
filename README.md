@@ -1,2 +1,2 @@
 # nueva-prueva-envato
-plantillas
+plantillas : https://alex29573.github.io/nueva-prueva-envato/
